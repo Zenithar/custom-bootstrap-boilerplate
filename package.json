@@ -1,0 +1,35 @@
+{
+	"name": "custom-bootstrap-boilerplate",
+	"version": "0.1.0",
+	"description": "Boilerplate for Twitter Bootstrap customisation",
+	"keywords": [
+		"bootstrap",
+		"twitter",
+		"css",
+		"less",
+		"recess",
+		"boilerplate"
+	],
+	"homepage": "https://github.com/Zenithar/custom-bootstrap-boilerplate",
+	"bugs": "https://github.com/sindresorhus/custom-bootstrap-boilerplate/issues",
+	"author": {
+		"name": "Thibault NORMAND",
+		"email": "thibault.normand@gmail.com",
+		"url": "http://zenithar.org"
+	},
+	"main": "grunt.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Zenithar/custom-bootstrap-boilerplate.git"
+	},
+	"dependencies": {
+		"grunt": "~0.3.9",
+		"grunt-recess": ">=0.1.0"
+	},
+	"engines": {
+		"node": ">=0.6.0"
+	},
+	"licenses": {
+		"type": "MIT"
+	}
+}
