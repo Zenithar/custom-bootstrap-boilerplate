@@ -23,7 +23,7 @@
 		"url": "git://github.com/Zenithar/custom-bootstrap-boilerplate.git"
 	},
 	"dependencies": {
-		"grunt": "~0.3.9",
+		"grunt": "~1.0.0",
 		"grunt-recess": ">=0.1.0"
 	},
 	"engines": {
